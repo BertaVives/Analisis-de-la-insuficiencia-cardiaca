@@ -28,9 +28,9 @@ El conjunto de datos contiene las siguientes características:
 ## Pasos del proyecto
 1. Introducción
 2. Análisis Exploratorio de Datos
-    - - 2.1. Limpieza de datos
-    - - 2.2. Feature Engineering
-    - - 2.3. Análisis de los datos
+   2.1. Limpieza de datos
+   2.2. Feature Engineering
+   2.3. Análisis de los datos
 3. Visualización de los datos
 4. Conclusiones
 5. Futuros pasos
