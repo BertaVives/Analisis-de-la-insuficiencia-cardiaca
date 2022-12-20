@@ -1,6 +1,8 @@
-# EDA
+# Análisis exploratorio de datos
 ## Descripción
-El conjunto de datos que se ha elegido para realizar el análisis exploratorio de datos contiene doce características que pueden utilizarse para predecir la posibilidad de muerte por insuficiencia cardíaca. Este está compuesto por trece columnas.
+Las enfermedades cardiovasculares son la primera causa de muerte en todo el mundo. Representan el 31% de muertes en el mundo, de las cuales la insuficiencia cardíaca es una de las causas más comunes. Este trabajo se basa en analizar como varía la posibilidad de muerte por insuficiencia cardíaca según doce características.
+## Datos
+El conjunto de datos contiene las siguientes características:
 -	age: indica la edad de cada uno de los pacientes. 
 -	anaemia: informa de los pacientes que sufren de anemia.
 -	creatinine_phosphokinase: muestra el nivel de la enzima creatina fosfoquinasa (CPK) en la sangre de cada paciente [mcg/L].
@@ -18,13 +20,12 @@ El conjunto de datos que se ha elegido para realizar el análisis exploratorio d
     ├── README.md         
     │                      
     └── src                
-        ├── data
-        |   ├── raw           
-        │   └── processed    
-        │
         ├── notebooks
         │   └── data-import.ipynb
         │   └── extras.ipynb
         |
         └── EDA.ipynb
-      
+## Resultados
+
+## Futuros pasos
+En futuras ocasiones se podría analizar la relación que tiene la edad de cada uno de los pacientes con cada una de las características que pueden provocar una insuficiencia cardíaca, además de la relación entre esta misma variable y la probabilidad de sufrir una parada cardíaca. Asimismo, también sería interesante estudiar qué tipo de relación hay entre los días de seguimiento y el hecho de sufrir un paro cardíaco. 
