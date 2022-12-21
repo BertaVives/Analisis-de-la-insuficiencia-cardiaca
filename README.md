@@ -38,6 +38,6 @@ El conjunto de datos contiene las siguientes características:
 4. Conclusiones
 5. Futuros pasos
 ## Resultados
-
+Una vez hecho el análisis de cada una de las características, podemos afirmar que cada una de ellas posee unos valores u otros según el género de cada paciente e influye de cierta forma en la probabilidad de muerte por insuficiencia cardíaca. Cabe destacar que la variable que cuantifica la cantidad de enzima CPK que hay en la sangre es la que menos varia e influye las variables de género y muerte. Pero, por otro lado, la característica que aumenta más de un 50% la probabilidad de muerte es un número muy elevado de creatinina sérica en sangre, lo cual causa un fallo renal. 
 ## Futuros pasos
 En futuras ocasiones se podría analizar la relación que tiene la edad de cada uno de los pacientes con cada una de las características que pueden provocar una insuficiencia cardíaca, además de la relación entre esta misma variable y la probabilidad de sufrir una parada cardíaca. Asimismo, también sería interesante estudiar qué tipo de relación hay entre los días de seguimiento y el hecho de sufrir un paro cardíaco. 
