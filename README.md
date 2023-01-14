@@ -1,4 +1,4 @@
-# Análisis de la insuficiencia cardíaca
+# EDA: Análisis de la insuficiencia cardíaca
 ## Descripción
 Las enfermedades cardiovasculares son la primera causa de muerte en todo el mundo. Representan el 31% de muertes en el mundo, de las cuales la insuficiencia cardíaca es una de las causas más comunes. Este trabajo se basa en analizar como varía la posibilidad de muerte por insuficiencia cardíaca según doce características.
 ## Datos
